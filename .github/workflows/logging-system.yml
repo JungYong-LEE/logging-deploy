@@ -7,7 +7,7 @@ on:
 
 env:
  S3_BUCKET-NAME: logging-deploy
- PROJECT_NAME: logging-deploy
+ PROJECT_NAME: playground
  
 jobs: 
  build: 
